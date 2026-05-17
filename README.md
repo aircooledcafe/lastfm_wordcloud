@@ -20,10 +20,10 @@ You will need to generate your own last.fm api key, from here:
 
 #### Usage
   
-TO run the script, use the following command parsing in the two required parmeters, this will create a file named "artist_cloud.png" with the last 12 months top 200 artists in a red colour scheme.  
+To run the script, use the following command passing in the two required parmeters, this will create a file named "artist_cloud.png" with the last 12 months top 200 artists in a red colour scheme.  
 `python word_cloud.py -u username -a your_api_key`  
   
-There are severa;l optionalcomponents to change the period, masks, colour and limit of artists included.
+There are several optional components to change the period, mask (shape of the wordcloud), colour of the text, and limit of artists included.
 ```
   -a, --api_key API_KEY
                         Your last.fm api key, reuqired. You can create one here https://www.last.fm/api/account/create.
