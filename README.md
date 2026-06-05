@@ -46,5 +46,3 @@ Oval mask sample.
 Diamond mask sample.  
 ![diamond_sample.png](./samples/diamond_sample.png)  
   
-Horns mask sample.  
-![horns_sample.png](./samples/horns_sample.png)  
